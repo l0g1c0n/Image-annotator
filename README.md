@@ -28,10 +28,11 @@ Navigate between images using the "<" (previous) and ">" (next) buttons. After a
 
 
 ### Keybinds
-####you can also use keybinds such as:
-1. ctrl + s (saves the annotation instantly without needing to press the button)
-2. left arrow (jumps to the image before)
-3. right arrow ( jumps to the next image)
+you can also use keybinds such as:
+
+  1. ctrl + s (saves the annotation instantly without needing to press the button)
+  2. left arrow (jumps to the image before)
+  3. right arrow ( jumps to the next image)
 
 
 ### Visualize Annotations
