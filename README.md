@@ -14,13 +14,13 @@ The Image Annotation App is a simple tool that allows users to annotate images b
 
 Click the "Load Folder" button to select a folder containing images for annotation. The app will display the first image from the folder.
 
-![Load Folder](images/load_folder.png)
+![Load Folder](images/Load_folder.png)
 
 ### Annotate Images
 
 Use your mouse to draw bounding boxes around objects in the displayed image. The app provides an interactive canvas for annotation.
 
-![Annotate Images](images/annotate_images.png)
+![Annotate Images](images/Annotate_Images.png)
 
 ### Navigation and Saving
 
@@ -39,7 +39,7 @@ you can also use keybinds such as:
 
 Annotations are saved as new images with the same size. it displays a black square in the place of the selected bounding box.
 
-![Visualize Annotations](images/visualize_annotations.png)
+![Visualize Annotations](images/Visualize_Annotations.png)
 
 ## License
 
