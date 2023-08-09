@@ -37,7 +37,7 @@ you can also use keybinds such as:
 
 ### Visualize Annotations
 
-Annotations are saved as new images with bounding boxes. You can visualize the annotated images to see the objects of interest highlighted.
+Annotations are saved as new images with the same size. it displays a black square in the place of the selected bounding box.
 
 ![Visualize Annotations](images/visualize_annotations.png)
 
