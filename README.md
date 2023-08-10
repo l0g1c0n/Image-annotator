@@ -33,6 +33,8 @@ you can also use keybinds such as:
   1. ctrl + s (saves the annotation instantly without needing to press the button)
   2. left arrow (jumps to the image before)
   3. right arrow ( jumps to the next image)
+  4. delete (deletes all selected boxes)
+  5. ctrl + z (undo one selection)
 
 
 ### Visualize Annotations
